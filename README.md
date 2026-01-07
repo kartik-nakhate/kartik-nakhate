@@ -20,3 +20,5 @@
 # Monday
 # 06/01/2025
 # Tuesday
+# 07/01/2025
+# wednesday
