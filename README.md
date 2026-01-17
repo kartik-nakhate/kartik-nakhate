@@ -39,5 +39,6 @@
 # 15/01/2026
 # Thursday
 # 16/01/2026
-# Saturday
+# Friday
 # 17/01/2026
+# Saturday
