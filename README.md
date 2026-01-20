@@ -8,4 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=kartik-nakhate&theme=holi&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kartik-nakhate&theme=holi&hide_border=true)<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
